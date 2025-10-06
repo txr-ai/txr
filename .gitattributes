@@ -1,0 +1,17 @@
+# create .gitattributes
+cat > .gitattributes << 'EOF'
+# default: keep LF on text
+* text=auto eol=lf
+
+# NEVER touch these (hash stability)
+*.jsonl -text
+*.csv  -text
+*.xml  -text
+*.sig  -text
+SHA256SUMS.txt -text
+*.zip  -text
+*.png  -text
+EOF
+
+git add .gitattributes
+git commit -m "Pin LF endings; mark hashed artifacts as binary"
