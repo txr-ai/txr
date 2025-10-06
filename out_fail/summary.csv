@@ -1,0 +1,3 @@
+bucket,sessions,success_rate,median_turns,p90_turns,median_cost_usd,p90_cost_usd
+chess-fail-cost-txr_full,5,0.00,36,36,7.07,7.07
+chess-fail-illegal-txr_full,5,0.00,91,91,1.62,1.62

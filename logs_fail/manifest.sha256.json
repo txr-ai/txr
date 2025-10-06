@@ -1,0 +1,77 @@
+{
+  "generated_at": "2025-10-05T18:55:56.539081Z",
+  "root": "logs_fail",
+  "total_files": 10,
+  "files": [
+    {
+      "bucket": "chess-fail-cost-txr_full",
+      "file": "session-cost-01.jsonl",
+      "relpath": "chess-fail-cost-txr_full\\session-cost-01.jsonl",
+      "sha256": "00c3d4151072197efbae13c6e26ca57e91d6e3290159efe8f4ecb21b84d79b4c",
+      "lines": 36
+    },
+    {
+      "bucket": "chess-fail-cost-txr_full",
+      "file": "session-cost-02.jsonl",
+      "relpath": "chess-fail-cost-txr_full\\session-cost-02.jsonl",
+      "sha256": "3435038083404f69028393d483e029b4a6a93d68aa33403766a48332b72a5a9c",
+      "lines": 36
+    },
+    {
+      "bucket": "chess-fail-cost-txr_full",
+      "file": "session-cost-03.jsonl",
+      "relpath": "chess-fail-cost-txr_full\\session-cost-03.jsonl",
+      "sha256": "74b6075ea6b624d1271af3ed504e61b43358f901b15b3d3591e2ea628422c473",
+      "lines": 36
+    },
+    {
+      "bucket": "chess-fail-cost-txr_full",
+      "file": "session-cost-04.jsonl",
+      "relpath": "chess-fail-cost-txr_full\\session-cost-04.jsonl",
+      "sha256": "201de2c77bf7d561bb9c7ec384c87a0451b502ef88df649811f541ecd981605a",
+      "lines": 36
+    },
+    {
+      "bucket": "chess-fail-cost-txr_full",
+      "file": "session-cost-05.jsonl",
+      "relpath": "chess-fail-cost-txr_full\\session-cost-05.jsonl",
+      "sha256": "9b1b632866ca759693655f3ff0544da2e68a362a97298e0adfb2151641235d4c",
+      "lines": 36
+    },
+    {
+      "bucket": "chess-fail-illegal-txr_full",
+      "file": "session-illegal-01.jsonl",
+      "relpath": "chess-fail-illegal-txr_full\\session-illegal-01.jsonl",
+      "sha256": "14be92379acf6bd3a83df9eef045f62eb6b85ca143fa5d642a91859e598bbe64",
+      "lines": 91
+    },
+    {
+      "bucket": "chess-fail-illegal-txr_full",
+      "file": "session-illegal-02.jsonl",
+      "relpath": "chess-fail-illegal-txr_full\\session-illegal-02.jsonl",
+      "sha256": "6c3dae544aa5fa542e3501bda3c550e7ed0708d574f08d647e1dc75991a54115",
+      "lines": 91
+    },
+    {
+      "bucket": "chess-fail-illegal-txr_full",
+      "file": "session-illegal-03.jsonl",
+      "relpath": "chess-fail-illegal-txr_full\\session-illegal-03.jsonl",
+      "sha256": "df7e3d19ebda95798704ef75706a5f0eb053f488fc3ff90abcb12597374bb761",
+      "lines": 91
+    },
+    {
+      "bucket": "chess-fail-illegal-txr_full",
+      "file": "session-illegal-04.jsonl",
+      "relpath": "chess-fail-illegal-txr_full\\session-illegal-04.jsonl",
+      "sha256": "2b9c2020bbf2ecd5b183c91e89ee71cf158a697919db0d607c62242bb12be177",
+      "lines": 91
+    },
+    {
+      "bucket": "chess-fail-illegal-txr_full",
+      "file": "session-illegal-05.jsonl",
+      "relpath": "chess-fail-illegal-txr_full\\session-illegal-05.jsonl",
+      "sha256": "952d08209af2663d4af496a03bbb29d0399a34aff6f53303c1ef5c2afaacb21a",
+      "lines": 91
+    }
+  ]
+}
