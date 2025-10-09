@@ -1,9 +1,10 @@
-# create .gitattributes
-cat > .gitattributes << 'EOF'
-# default: keep LF on text
+cd ~/txr-verify
+
+cat > .gitattributes <<'EOF'
+# Keep LF for text by default (no CRLF flips)
 * text=auto eol=lf
 
-# NEVER touch these (hash stability)
+# Treat hashed artifacts as binary (no line-ending conversion)
 *.jsonl -text
 *.csv  -text
 *.xml  -text
@@ -12,6 +13,3 @@ SHA256SUMS.txt -text
 *.zip  -text
 *.png  -text
 EOF
-
-git add .gitattributes
-git commit -m "Pin LF endings; mark hashed artifacts as binary"
