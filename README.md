@@ -31,10 +31,10 @@ Unlike prior classes (search, optimization, inference, learning), TxR enforces a
 
 Traditional pipelines regress, hallucinate, reproduce inconsistent results, and are incapable of running long, complex inferences. TxR prevents this:
 
-- ✅ No backsliding under MCC  
-- ✅ Logs every state delta (pre vs. post, predicted vs. observed) and reassesses progress. 
-- ✅ Dynamic operator ownership based on conditions & feedback  
-- ✅ Linear moves for fast paths, expanded logic when higher confidence required or confidence erodes  
+- Non Regressive under MCC  
+- Logs every state delta (pre vs. post, predicted vs. observed) and reassesses progress. 
+- Dynamic operator ownership based on conditions & feedback  
+- Linear moves for fast paths, expanded logic when higher confidence required or confidence erodes  
 
 **Practical Value**  
 - Long-running inference: chunked with no regressions  
@@ -45,7 +45,7 @@ Traditional pipelines regress, hallucinate, reproduce inconsistent results, and 
 
 ---
 
-## 3. Novelty Criteria (Academic Standard)
+## 3. Novelty Criteria
 
 TxR meets the academic test for a distinct operator class:
 
