@@ -127,21 +127,13 @@ sha256sum -c SHA256SUMS.txt
 
 ## 7. License & Legal Notice
 
-- **License:** [Creative Commons BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
-  (Attribution, Non-Commercial, No Derivatives)  
-- **Patent Status:** *Transactional Neural Reasoning* is the subject of a **full utility patent application** filed with the USPTO in April 2025 by **Joshua Williamson**.  
+- **License:** [Creative Commons BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)  
+  (Attribution Required)    
 - **Contact:** [Joshua Williamson](https://www.linkedin.com/in/joshuabrint)  
   Email: joshua@bridger.systems  
 
 ---
 
-## 8. Statement of Intent
-
-Upon successful recovery of investment, the core operator logic of **Transactional Neural Reasoning (TNR)** and **Transactional Reasoning (TxR)** will be **open-sourced in full** for research and development.  
-
-This repository currently releases evaluation artifacts, logs, and conformance suites so that independent reviewers can study and verify claims without requiring access to proprietary heuristics.
-
----
 
 ## 9. Disputes
 
