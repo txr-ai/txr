@@ -135,7 +135,7 @@ sha256sum -c SHA256SUMS.txt
 ---
 
 
-## 9. Disputes
+## 8. Disputes
 
 - You are free to challenge methodology or novelty.  
 - Logs and bundles are open for independent replication/review.  
@@ -144,5 +144,5 @@ sha256sum -c SHA256SUMS.txt
 
 
 ---
-
+If you would like to become a part of turning the transactional Neural Reasoning Framework into a resellable licensed product, please get in touch. tnr@bridger.systems
 Thank you for your time and attention in reviewing this claim for Transactional Reasoning (TxR). Updates will be posted as submissions are posted for review. 
