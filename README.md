@@ -14,8 +14,8 @@
 
 ## 1. Overview
 
-**Transactional Reasoning (TxR)** is a proposed new operator class for Machine Learning and Artificial Intelligence.  
-TxR introduces **Monotone-Confidence (MCC)**, **Dual-Manifold Orientation**, and **Evidence-Gated Decisioning**.  
+**Transactional Reasoning (TxR)** is a new operator class for Artificial Intelligence and Machine Intelligence. It is a core component to the Transactional Neural Reasoning Machine Intelligence Framework.   
+TxR introduces **Monotone-Confidence (MCC)**, **Dual-Manifold Orientation**,**Multi-Pillar Governance** and **Reasoning Intelligence for Machines**.  
 
 Unlike prior classes (search, optimization, inference, learning), TxR enforces at runtime:
 
@@ -23,16 +23,16 @@ Unlike prior classes (search, optimization, inference, learning), TxR enforces a
 - Actions are bounded between *Ideal* and *Adversarial* manifolds.  
 - Every decision is evidence-gated with auditable logs.  
 
-**Result:** forward progress or positional reassessment, never regression. No wasted/perpetual linear loops. Every step is signed, auditable, recallable and efficient.
+**Result:** A series of microtransactions, reasoning through a series of pillars "SENSE, ASSESS, DECIDE, ACTION, VERIFY" under a per transaction, elected governance and enforcement logic that is reviewed upon completion and satisfied in quorum. Pass or fail is determined by: "Was that action non-regressive, does it position the work closer to the desired state/desired outcome, and was the work completed successfully, within boundaries and reported on via receipts.
 
 ---
 
 ## 2. Why It Matters
 
-Traditional pipelines regress, hallucinate, reproduce inconsistent results, and are incapable of running long, complex inferences. TxR prevents this:
+Traditional generation uses the prompt to solve the next likely token in order to generate output. TxR reasons its way via a dynamic multi-pillar governance model that is integrity and confidence-bound between dual manifolds (ideal & adversarial) with a monotone confidence-constraint to enforce non-regressive actions only. 
 
 - Non Regressive under MCC  
-- Logs every state delta (pre vs. post, predicted vs. observed) and reassesses progress. 
+- Logs every state delta (pre vs. post, predicted vs. observed) and reassesses progress on a per step basis. 
 - Dynamic operator ownership based on conditions & feedback  
 - Linear moves for fast paths, expanded logic when higher confidence required or confidence erodes  
 
@@ -140,7 +140,7 @@ sha256sum -c SHA256SUMS.txt
 - You are free to challenge methodology or novelty.  
 - Logs and bundles are open for independent replication/review.  
 - Patent-protected logic is **not disclosed** here.  
-- Further disclosure may be granted to qualified reviewers under NDA.  
+
 
 
 ---
